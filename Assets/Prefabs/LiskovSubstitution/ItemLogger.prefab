@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6568450279916723804}
   - component: {fileID: 2015682644}
-  - component: {fileID: 8049019914272179660}
+  - component: {fileID: 2825835672248608178}
   m_Layer: 0
   m_Name: ItemLogger
   m_TagString: Untagged
@@ -44,7 +44,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8af6bb53b8531fe44aa7483b73d6f670, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!114 &8049019914272179660
+--- !u!114 &2825835672248608178
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -53,9 +53,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 6568450279916723803}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0f030382d6c1412439730de3fe460fb3, type: 3}
+  m_Script: {fileID: 11500000, guid: 36e19551f4c4822478474a96c3d5a04f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  name: New Item Name
+  name: Health Potion
   description: New Item Description
-  damage: 10
+  useText: Throw Me!
